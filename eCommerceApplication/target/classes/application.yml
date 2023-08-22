@@ -1,6 +1,0 @@
-#spring:
-#  data:
-#    mongodb:
-#      port:
-#        uri : mongodb+srv://root:1729@lalith.cj36aqk.mongodb.net/?retryWrites=true&w=majority
-#        database : lalith
